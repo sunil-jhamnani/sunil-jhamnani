@@ -8,4 +8,4 @@
 
 ## 📫 How to reach me:
 
-![twitter](https://raw.githubusercontent.com/sunil-jhamnani/sunil-jhamnani/master/twitter.png) ![linkedin](https://raw.githubusercontent.com/sunil-jhamnani/sunil-jhamnani/master/linkedin.png)
+![twitter](https://raw.githubusercontent.com/sunil-jhamnani/sunil-jhamnani/master/twitter.png) [![linkedin](https://raw.githubusercontent.com/sunil-jhamnani/sunil-jhamnani/master/linkedin.png)](https://www.linkedin.com/in/suniljhamnani/)
